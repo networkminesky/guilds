@@ -1,0 +1,8 @@
+name: mineskyguilds
+version: 1.0
+author: Drawn
+main: net.minesky.Main
+commands:
+  guildas:
+  guilda:
+  guild:
